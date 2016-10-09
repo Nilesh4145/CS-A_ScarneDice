@@ -64,22 +64,19 @@
             android:id="@+id/roll"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="roll"
-            android:weight="1"/>
+            android:text="roll" />
 
         <Button
             android:id="@+id/hold"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="hold"
-            android:weight="1"/>
+            android:text="hold" />
 
         <Button
             android:id="@+id/reset"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="reset"
-            android:weight="1"/>
+            android:text="reset" />
     </LinearLayout>
 
 </RelativeLayout>
